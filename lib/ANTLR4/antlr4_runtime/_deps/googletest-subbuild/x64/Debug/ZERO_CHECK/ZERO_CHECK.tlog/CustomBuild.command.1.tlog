@@ -1,0 +1,10 @@
+^C:\USERS\SLONIKIN211\DOCUMENTS\CODESPACE\YANDEXPRACTICUM\PROJECTS\YSPREADSHEET\LIB\ANTLR4\ANTLR4_RUNTIME\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\AB9852883B5904DA05AE5E928FBA2DB4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild -BC:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

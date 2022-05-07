@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/ab9852883b5904da05ae5e928fba2db4/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/cf40482f93627313283f2601c97eb5c1/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/375549e1d7b62a86e546c27b34349829/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

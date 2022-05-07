@@ -1,0 +1,3 @@
+C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/slonikin211/Documents/Codespace/YandexPracticum/Projects/YSpreadsheet/lib/ANTLR4/antlr4_runtime/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\375549e1d7b62a86e546c27b34349829\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\cf40482f93627313283f2601c97eb5c1\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\ab9852883b5904da05ae5e928fba2db4\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\slonikin211\Documents\Codespace\YandexPracticum\Projects\YSpreadsheet\lib\ANTLR4\antlr4_runtime\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AB8F112B-61E9-3EFD-B388-DFB4D8C6C1FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
